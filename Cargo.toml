@@ -11,4 +11,4 @@ readme = "README.md"
 [dependencies]
 antidote = "1.0"
 native-tls = "0.2"
-hyper = "0.10"
+hyper = "1.4"
